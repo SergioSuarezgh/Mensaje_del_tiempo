@@ -15,7 +15,7 @@ El proyecto se compone de 3 ficheros aunque uno de ellos no se ha subido ya que 
 Los dos archivos subidos están comentados indicando que hace cada paso
 
 
-![twilio|50](./twilio.png)
+![twilio|20](./twilio.png)
 ##TWILIO
 Usaremos esta aplicación para el envío de mensajes. Esta plataforma nos provee de un número de movil para hacer los envios
 
